@@ -1,6 +1,6 @@
 # test -NeXt Warning System (XWS) Week xx Update 
 
-< Week beginning: dd mm yyyy >
+Week beginning: dd mm yyyy
 
 Prepared by: xxx
   

@@ -6,9 +6,9 @@ Prepared by: xxx
   
 ## What we've been up to this week
   
-  *
-  *
-  *
+1.  this is next
+2.  tomorrow
+3.  next week
   
 ## What we're planning for next week
 
